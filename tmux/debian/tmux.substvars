@@ -1,0 +1,3 @@
+shlibs:Depends=libc6 (>= 2.38), libevent-core-2.1-7t64 (>= 2.1.8-stable), libtinfo6 (>= 6.4+20230603), libtinfo6 (<< 6.5~)
+misc:Depends=
+misc:Pre-Depends=
